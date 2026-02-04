@@ -1,0 +1,11 @@
+# Databases
+*.db
+
+# Environment / secrets
+*.env
+
+# Python cache
+__pycache__/
+
+# Power BI files
+*.pbix
