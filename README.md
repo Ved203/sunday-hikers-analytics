@@ -50,18 +50,3 @@ WordPress API → Python → SQLite (Local)
 - Cloud database storage (PostgreSQL)
 - Power BI integration for visualization
 
----
-
-## Repository Structure
-sunday-hikers-analytics/
-│
-├── python/
-│   ├── sqlite_extraction/
-│   ├── postgres_extraction/
-│
-├── powerbi/
-│
-├── docs/
-│
-└── README.md
-
